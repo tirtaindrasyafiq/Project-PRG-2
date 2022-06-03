@@ -1,2 +1,0 @@
-D:\latihan C#\explore\cobaOOP\cobaOOP\obj\Debug\cobaOOP.csprojAssemblyReference.cache
-D:\latihan C#\explore\cobaOOP\cobaOOP\obj\Debug\cobaOOP.csproj.CoreCompileInputs.cache
