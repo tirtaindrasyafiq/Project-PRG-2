@@ -20,7 +20,7 @@ namespace cobaOOP
         //Atribut class kucing //
         public string jenis;
         public string warna;
-        public string suara;
+        public string voice;
         public int usia;//enkapsulasi
 
         //method class kucing//
